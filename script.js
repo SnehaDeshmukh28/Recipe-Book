@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { title: 'Chocolate Cake', description: 'Moist and rich chocolate cake topped with ganache.', image: 'chocolate_cake.jpg' },
         { title: 'Vegetable Stir Fry', description: 'Colorful mix of fresh vegetables stir-fried to perfection.', image: 'stir_fry.jpg' },
         { title: 'Caprese Salad', description: 'Simple and refreshing salad with tomatoes, mozzarella, and basil.', image: 'caprese_salad.jpeg' },
+        { title: 'Tandoori Chicken', description: 'Popular Indian dish where marinated chicken is grilled to perfection in a Tandoor.', image: 'Tandoori-Chicken-Quarter.jpg' },
     ];
 
     recipes.forEach(recipe => {
